@@ -1,4 +1,4 @@
-package com.api.javalabspringbootparkingcontrol;
+package com.parking.javalabspringbootparkingcontrol;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
