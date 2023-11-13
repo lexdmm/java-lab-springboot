@@ -1,13 +1,13 @@
-package com.parking.javalabspringbootparkingcontrol;
+package com.api.javalabsapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaLabSpringbootParkingControlApplication {
+public class JavaLabSpringbootApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaLabSpringbootParkingControlApplication.class, args);
+		SpringApplication.run(JavaLabSpringbootApiApplication.class, args);
 	}
 
 }
