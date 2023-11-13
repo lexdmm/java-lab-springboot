@@ -1,4 +1,4 @@
-package com.api.javalabspringbootparkingcontrol.model;
+package com.api.javalabsapi.model;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
