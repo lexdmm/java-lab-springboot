@@ -2,11 +2,11 @@ version: '3.1'
 
 services:
   database:
-    container_name: postgres-parking-control
+    container_name: postgres-api-labs
     image: postgres
     ports:
       - 5432:5432
     environment:
       POSTGRES_USER: root
       POSTGRES_PASSWORD: root
-      POSTGRES_DB: parking-control
+      POSTGRES_DB: database-labs
