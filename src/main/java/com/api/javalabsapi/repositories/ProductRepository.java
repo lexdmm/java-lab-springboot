@@ -11,3 +11,4 @@ import com.api.javalabsapi.model.ProductModel;
 public interface ProductRepository extends JpaRepository<ProductModel, UUID> {
     
 }
+
